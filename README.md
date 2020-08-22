@@ -2,11 +2,10 @@
 
 ## Student Name  : Anh Le
 ## Student ID    : 915453453
-IDE: Intellij IDEA 2019.2.2
-Java version 1.8.0_151
-Working Directory: csc413-tankgame-Anh96Le
-to run the game, run the TankGame.java in the MainDisplay directory.
-Player 1 Control
+## IDE: Intellij IDEA 2019.2.2
+## Java version 1.8.0_151
+## to run the game, run the TankGame.java in the MainDisplay directory.
+# Player 1 Control
 up: W
 down: S
 Left: A
